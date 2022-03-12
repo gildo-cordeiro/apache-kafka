@@ -1,0 +1,5 @@
+/home/gildo_cordeiro/IdeaProjects/apache-kafka/commom-kafka/src/main/java/br/com/alura/ecommerce/GsonDeserializer.java
+/home/gildo_cordeiro/IdeaProjects/apache-kafka/commom-kafka/src/main/java/br/com/alura/ecommerce/KafkaDispatcherService.java
+/home/gildo_cordeiro/IdeaProjects/apache-kafka/commom-kafka/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/home/gildo_cordeiro/IdeaProjects/apache-kafka/commom-kafka/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java
+/home/gildo_cordeiro/IdeaProjects/apache-kafka/commom-kafka/src/main/java/br/com/alura/ecommerce/GsonSerializer.java
